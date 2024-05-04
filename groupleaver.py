@@ -6,7 +6,7 @@ import asyncio
 #
 
 client = discord.Client()
-token = os.getenv("token") # Put your token here
+token = "MTk5MzA3MzQxNDAzNzgzMTY5.708I8ht3ScBnQ0gM5rxnHdf2aEE" # Put your token here
 prefix = "#"
 command = "gl"
 leaveMessage = "Bye!"
